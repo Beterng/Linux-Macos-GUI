@@ -1,43 +1,8 @@
-<ul>
-      <li>
-    <p>
-    <strong>Plasma Theme:</strong> <a rpl="" class="relative pointer-events-auto a
-  
-  
-  
-  
-  underline
-  " href="https://github.com/vinceliuice/MacSonoma-kde.git" rel="noopener nofollow ugc" target="_blank">MacSonoma-kde</a>
-  </p>
-  </li><li>
-    <p>
-    <strong>GTK theme:</strong> <a rpl="" class="relative pointer-events-auto a
-  
-  
-  
-  
-  underline
-  " href="https://github.com/vinceliuice/WhiteSur-gtk-theme.git" rel="noopener nofollow ugc" target="_blank">Whitesur-gtk-theme</a>
-  </p>
-  </li><li>
-    <p>
-    <strong>Applications Style:</strong> <a rpl="" class="relative pointer-events-auto a
-  
-  
-  
-  
-  underline
-  " href="https://github.com/boehs/Lightly.git" rel="noopener nofollow ugc" target="_blank">Lightly</a>
-  </p>
-  </li><li>
-    <p>
-    <strong>Icon theme:</strong> <a rpl="" class="relative pointer-events-auto a
-  
-  
-  
-  
-  underline
-  " href="https://github.com/vinceliuice/WhiteSur-icon-theme.git" rel="noopener nofollow ugc" target="_blank">Whitesur-icon-theme</a>
+# Rescrouce
+- Plasma Theme: [MacSonoma-kde](https://github.com/vinceliuice/MacSonoma-kde.git) 
+- GTK theme: [Whitesur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme.git)
+- Applications Style: [Lightly](https://github.com/Luwx/Lightly)
+- Icon theme: [Whitesur-icon-theme](https://github.com/vinceliuice/WhiteSur-icon-theme.git)
   </p>
   </li><li>
     <p>
